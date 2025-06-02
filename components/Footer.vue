@@ -41,7 +41,7 @@ adiv<template>
                 <div class="row mt-5">
                     <div class="col">
                         <hr>
-                        <p class="text-center">&copy; 2025. SMK Negeri 4 Tasikmalaya. <br> All rights reserved.</p>
+                        <p class="text-center">&copy; 2025. Rayival Dede Saputra. <br> All rights reserved.</p>
                         <hr>
                     </div>
                 </div>
